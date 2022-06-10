@@ -5,4 +5,4 @@
 - 🔭 I’m currently study in Innopolis university
 - 💬 Ask me about everything
 - 📫 How to reach me: [@RRMOLL](https://t.me/RRMOLL)
-- ⚡ Fun fact: I am very like milk
+- ⚡ Fun fact: Milk lover
