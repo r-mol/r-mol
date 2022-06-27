@@ -6,7 +6,7 @@
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-mol&layout=compact)](https://github.com/r-mol/github-readme-stats) 
 - 🔭 I’m currently study in Innopolis university
 - 💬 Ask me about everything
-- 📫 How to reach me: [@RRMOLL](https://t.me/RRMOLL)
+- 📫 How to reach me: [@roman_molochkov](https://t.me/roman_molochkov)
 - ⚡ Fun fact: Milk lover
 
 ## 🔧 Technologies & Tools
