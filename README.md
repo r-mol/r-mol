@@ -7,7 +7,7 @@
 - 🔭 I’m currently studing in Innopolis university.
 - 💬 Ask me about everything.
 - 📫 How to reach me: [@roman_molochkov](https://t.me/roman_molochkov).
-- 💵 Or how to rich me: .
+- 💵 Or how to rich you: just hire me.
 - ⚡ Fun fact: Milk lover.
 
 ## 🔧 Technologies & Tools
